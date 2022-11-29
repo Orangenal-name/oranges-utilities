@@ -1,0 +1,5 @@
+
+.env
+.vscode/
+src/bot/config.json
+database.sqlite
